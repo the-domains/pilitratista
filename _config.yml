@@ -1,4 +1,4 @@
-layout_spectrum: 0.4639544
+layout_spectrum: 0.3170213
 name: Pilitratista
 collections:
   - index:
@@ -12,10 +12,11 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.03439382
 color:
   brandStrength: 0.915908
-  lightness: 0
-  saturation: 0.8234043
+  lightness: 0.506383
+  saturation: 0.506383
   rhythmicContrast: 0.5837145
   brandColors:
     - '#010103'
@@ -23,4 +24,3 @@ color:
     - '#7C707E'
     - '#DE884B'
     - '#C84013'
-typography_spectrum: 0.03439382
