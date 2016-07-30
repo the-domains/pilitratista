@@ -12,7 +12,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5148936
+typography_spectrum: 0.5340425
 color:
   brandStrength: 0.915908
   lightness: 0.506383
