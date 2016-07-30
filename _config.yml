@@ -1,14 +1,26 @@
 layout_spectrum: 0.4639544
-typography_spectrum: 0.03439382
+name: Pilitratista
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.83737
   brandStrength: 0.915908
-  saturation: 0.7437609
+  lightness: 0
+  saturation: 0.8234043
   rhythmicContrast: 0.5837145
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-name: Pilitratista
+    - '#010103'
+    - '#304678'
+    - '#7C707E'
+    - '#DE884B'
+    - '#C84013'
+typography_spectrum: 0.03439382
